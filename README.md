@@ -2,11 +2,15 @@
 
 ## Project Overview
 
+## Project Overview
+
 This project is an AI-powered news digest automation workflow built using **n8n**.
 
-The workflow automatically collects news articles from RSS feeds, filters the most relevant stories, generates concise AI-powered summaries, and delivers a formatted news digest via email.
+The workflow automatically collects news articles from RSS feeds, filters the most relevant content, generates concise summaries using a locally hosted Large Language Model (LLM), and delivers a formatted news digest via email.
 
-The project demonstrates workflow automation, AI integration, RSS feed processing, and automated email delivery.
+The project demonstrates workflow automation, AI-powered text summarization, RSS feed processing, scheduled execution, and automated email delivery through an end-to-end automation pipeline.
+
+This repository is intended for portfolio and project showcase purposes and highlights practical applications of AI and workflow automation.
 
 ---
 
