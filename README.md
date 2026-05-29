@@ -50,7 +50,7 @@ The architecture below illustrates the overall flow of data through the system.
 
 - n8n
 - RSS Feeds
-- AI Model
+- Local LLM
 - Gmail
 - Scheduler / Trigger Node
 
