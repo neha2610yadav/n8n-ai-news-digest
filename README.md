@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-## Project Overview
-
 This project is an AI-powered news digest automation workflow built using **n8n**.
 
 The workflow automatically collects news articles from RSS feeds, filters the most relevant content, generates concise summaries using a locally hosted Large Language Model (LLM), and delivers a formatted news digest via email.
