@@ -14,7 +14,7 @@ The project demonstrates workflow automation, AI integration, RSS feed processin
 
 The following workflow shows the end-to-end automation pipeline built in n8n.
 
-![Workflow Screenshot](screenshots/workflow.png)
+![Workflow Screenshot](workflow.png)
 
 ---
 
@@ -22,7 +22,7 @@ The following workflow shows the end-to-end automation pipeline built in n8n.
 
 Below is an example of the AI-generated news digest delivered through email.
 
-![Email Output](screenshots/output.png)
+![Email Output](output.png)
 
 ---
 
@@ -30,7 +30,7 @@ Below is an example of the AI-generated news digest delivered through email.
 
 The architecture below illustrates the overall flow of data through the system.
 
-![Architecture Diagram](screenshots/architecture.png)
+![Architecture Diagram](architecture.png)
 
 ---
 
