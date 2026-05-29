@@ -1,4 +1,4 @@
-# 📰 AI-Powered News Digest Automation using n8n
+# 📰 NewsPulse AI – Automated News Intelligence & Digest Platform
 
 ## Project Overview
 
